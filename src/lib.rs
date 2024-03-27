@@ -2,6 +2,8 @@
 //! 
 //! `jjss_tocargo` is a test cargo.
 
+mod utils;
+mod location;
 
 /// The version of the crate
 const VERSION : &str = "0.1.2";
