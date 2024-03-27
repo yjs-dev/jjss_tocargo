@@ -2,11 +2,10 @@
 //! 
 //! `jjss_tocargo` is a test cargo.
 
-mod utils;
-mod location;
 
-use utils;
-use location;
+pub mod utils;
+pub mod location;
+
 
 /// The version of the crate
 const VERSION : &str = "0.1.2";
@@ -25,7 +24,6 @@ const MAX_TRY : u32 = 10;
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
-
 
 /// Greeting function
 /// 
