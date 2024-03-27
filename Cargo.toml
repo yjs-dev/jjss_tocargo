@@ -1,6 +1,6 @@
 [package]
 name = "jjss_tocargo"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "test crate repo"
 authors = ["jjss <yjs@devtools.kr>"] # 작성자
