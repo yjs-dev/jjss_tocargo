@@ -2,8 +2,11 @@
 name = "jjss_tocargo"
 version = "0.1.0"
 edition = "2021"
+description = "test crate repo"
 authors = ["jjss <yjs@devtools.kr>"] # 작성자
-repository = ""
+liscense ="MIT"
+repository = "https://github.com/yjs-dev/jjss_tocargo"
+keywords = ["jjss", "cargo", "crate", "test"] #검색용 키워드
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
