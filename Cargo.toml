@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "test crate repo"
 authors = ["jjss <yjs@devtools.kr>"] # 작성자
-liscense ="MIT"
+license ="MIT"
 repository = "https://github.com/yjs-dev/jjss_tocargo"
 keywords = ["jjss", "cargo", "crate", "test"] #검색용 키워드
 
