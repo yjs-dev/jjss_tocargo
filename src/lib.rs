@@ -3,6 +3,12 @@
 //! `jjss_tocargo` is a test cargo.
 
 
+// reexport를 통해 documention의 main에 나타나게 할 수 있음.
+pub use utils::util_test;
+pub use location::{Continent, Country};
+
+
+// modules 탭에 표기됨
 pub mod utils;
 pub mod location;
 
