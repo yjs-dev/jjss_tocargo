@@ -5,6 +5,9 @@
 mod utils;
 mod location;
 
+use utils;
+use location;
+
 /// The version of the crate
 const VERSION : &str = "0.1.2";
 
